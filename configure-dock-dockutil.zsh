@@ -81,15 +81,20 @@ ERASE_DOCK="Y"
 REMOVE_DOCKUTIL="Y"
 
 # Do you want to keep the downloads folder in the dock (Y/N)
-DOWNLOADS_FOLDER="Y"
+DOWNLOADS_FOLDER="N"
 
 # Complete path of applications to add to the dock, new line per application
 APPLICATION_LIST=(
-        "/Applications/Google Chrome.app"
+        "/System/Applications/Calculator.app"
         "/System/Applications/Music.app"
-        "/System/Applications/Notes.app"
-        "/System/Applications/Reminders.app"
+		"/System/Applications/Notes.app"
+		"/System/Applications/FindMy.app"
+		"/System/Applications/System Settings.app"
+        "/Applications/zoom.us.app"
         "/Applications/Kandji Self Service.app"
+		"/Applications/Slack.app"
+ 		"/Applications/Google Chrome.app"
+		"/Applications/1Password.app"
     )
 
 # If an application has not yet been installed, do you want to skip that application, or 
