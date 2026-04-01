@@ -93,6 +93,7 @@ APPLICATION_LIST=(
         "/Applications/zoom.us.app"
         "/Applications/Kandji Self Service.app"
 		"/Applications/Slack.app"
+		"/Applications/Okta Verify.app"
  		"/Applications/Google Chrome.app"
 		"/Applications/1Password.app"
     )
